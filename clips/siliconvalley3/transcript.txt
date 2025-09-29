@@ -1,9 +1,0 @@
-00:00->00:02 Lady: Ah, Bertram. While I have you.
-00:03->00:05 Bertram: You don't have me.
-00:06->00:09 Lady: Richard's just asked me with streamlining productivity and balancing head count.
-00:10->00:13 Lady: Can you explain to me why you have no one working under you?
-00:14->00:18 Lady: Just seems odd considering the agile board is showing that you have a massive back log. 
-00:19->00:23 Bertram: You are new here, so I'll forgive the patronizing tone.
-00:23->00:27 Bertram: I'm more concerned with being right than being fast. 
-00:28->00:29 Bertram: And I don't like dealing with people.
-00:30->00:32 Bertram: To wit. Are we done?
